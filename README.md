@@ -1,3 +1,3 @@
-# mini-repo
+#pants-page
 
-This README could use some improvement, don't you agree?
+Many types of pants.
